@@ -23,7 +23,8 @@ elif int(c) == 31:
     d = c +"st"
 else:
     d = c+"th"
-
+#apart from the elif function we could just have used a list.
+#the example this: prefix=  ['st','nd','rd']+ 17*['th']+['st','nd','rd']+17*['th']+['st']
 if int(b) == 1:
        m = "January"
 elif int(b) == 2:
