@@ -65,5 +65,5 @@ elif x == 5:
 else:
     y = "Sunday"
 
-print("You were born on "+y+" "+d+", "+m+" "+a)
+print("We have successfully got your specific birthdate,you were born on "+y+" "+d+", "+m+" "+a)
 input("Press enter")
